@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(255, 244, 234, 0.467);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline dashed;
+}
+
+h2,
+h3 {
+    color: rgb(89, 89, 89);
+}
+
+.body-heading {
+    text-align: center;
+}
+
+.text_desc {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 500px;
+    height: 110px;
+    text-align: justify;
+    color: rgb(89, 89, 89);
+    font-size: 20px;
+}
+
+#kurt_img {
+    border: 1px solid black;
+    border-radius: 50%;
+    justify-content: center;
+    width: 750px;
+    margin-top: 50px;
+}
+
+.list {
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 75px;
+    color: rgb(89, 89, 89);
+    line-height: 30px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 1000px;
+    height: 250px;
+}
